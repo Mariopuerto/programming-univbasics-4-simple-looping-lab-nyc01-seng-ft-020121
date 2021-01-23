@@ -3,4 +3,3 @@
     puts array[counter]
     counter += 5
   end
-
