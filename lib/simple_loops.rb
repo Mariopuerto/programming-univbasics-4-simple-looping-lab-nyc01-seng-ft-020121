@@ -1,3 +1,3 @@
 def loop_message_five_times(array)
-  array(5)
+  5.times(array)
 end
