@@ -2,7 +2,7 @@ def loop_message_five_times(array)
   counter = 0
 
   while array[counter] do
-    puts array[counter]
+    puts Hello World
     counter += 1
   end
 end
